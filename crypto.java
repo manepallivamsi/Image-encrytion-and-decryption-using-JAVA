@@ -54,7 +54,7 @@ public class crypto {
         f.setLocationRelativeTo(null);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        Font font=new Font("Roboto",Font.BOLD,25);
+        Font font=new Font("Helvetica",Font.BOLD,25);
         //creating button
         JButton button=new JButton();
         button.setText("Open Image");
